@@ -1,1 +1,3 @@
-# pong-no-p5js
+# Pong no P5js
+
+Criado com aulas do [Alura](https://alura.com.br/)
